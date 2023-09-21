@@ -1,0 +1,19 @@
+.cont {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .pergamino {
+    background-image: url('../../assets/pergamino.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }

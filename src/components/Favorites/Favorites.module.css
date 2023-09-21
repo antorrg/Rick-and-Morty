@@ -1,0 +1,13 @@
+.Favorites{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    flex-direction: wrap;
+   
+    
+    
+    
+    
+}
+
+

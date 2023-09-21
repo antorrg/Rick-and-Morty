@@ -1,0 +1,32 @@
+.card{
+    border: 0.25rem solid blue;
+    border-radius:  0.5rem;
+    width: fit-content;
+    font-weight: 600;
+    margin: auto;
+    padding: 1 rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+    
+}
+
+.btn{
+    background-color:darkgrey ;
+    border-radius: 0.5rem;
+    padding:2%;
+    align-self:self-end;
+   
+  
+
+}
+
+.btn1{
+    background-color:darkgrey ;
+    border-radius: 0.5rem;
+    padding:2%;
+    align-self:self-start;
+    
+
+}
