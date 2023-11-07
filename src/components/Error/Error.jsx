@@ -2,7 +2,8 @@ import { NavLink } from "react-router-dom";
 const Error = ()=>{
     return(
         <div>
-            <h2>This page does not exist. <NavLink to="/home">Homepage</NavLink>.</h2>
+            <h1>This page does not exist.
+                Please return to  <NavLink to="/home">Homepage</NavLink>.</h1>
         </div>  
     )
 }
